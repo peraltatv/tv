@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷ARGENTINA🇦🇷nova",
+    "name": "🇦🇷ARGENTINA🇦🇷nova2",
     "mode": false,
     "lista": [
       {
@@ -815,8 +815,7 @@
         "name": "ESPN PREMIUM op2",
         "ico": "http://br2.vrx-plus.es/img/espnpremium.png",
         "uri": "lRqbvaPIp8wlSFFVY+z3QdSiCadEjMI8nIGDXnLNaH/RYUsrcGE9nmRBC6MNKmqtNDzsZq14joBDtytRk6hLpQt1Wnf7M3vK90IX0+5Y56w=",
-        "drm_scheme": "",
-        "drm_license_url": "4R9SfW7QFctHT6yq0BdShA=="
+        "headers": "fHZjYmIoL0cROt6Cx4xK2pYscNYC/TOs+9OgR+3g7MPyHpmWaVZ3vXrwgALTul6TQNAlIE2mfK6t6SQvnb0kVBR6oYf9D37Rrb/dRPG6KLJx/IQ40wmtJf8fmJvAd3nnV0nkDhzfacXB4lJnxDKSqJnsjMXbzGilZ4XxWbCSHfQ="
       },
       {
         "name": "TNT SPORTS",
@@ -831,8 +830,7 @@
         "name": "TNT SPORTS op2",
         "ico": "http://br2.vrx-plus.es/img/tnt_sports_2024.png",
         "uri": "lRqbvaPIp8wlSFFVY+z3QdSiCadEjMI8nIGDXnLNaH/MEQx3z2Vv69LvfzRA0gumqnTbKIaxthhgjcCJEGfFoolwOU+cOs3t1PEod48R4tU=",
-        "drm_scheme": "",
-        "drm_license_url": "4R9SfW7QFctHT6yq0BdShA=="
+        "headers": "fHZjYmIoL0cROt6Cx4xK2pYscNYC/TOs+9OgR+3g7MPyHpmWaVZ3vXrwgALTul6TQNAlIE2mfK6t6SQvnb0kVBR6oYf9D37Rrb/dRPG6KLJx/IQ40wmtJf8fmJvAd3nnV0nkDhzfacXB4lJnxDKSqJnsjMXbzGilZ4XxWbCSHfQ="
       },
       {
         "name": "ESPN",
@@ -2666,21 +2664,21 @@
       },
       {
         "name": "RCN",
-        "ico": "https://i.postimg.cc/P5dbbJbn/RCN-Mas-c.png",
+        "ico": "http://br2.vrx-plus.es/img/RCN.DGO.png",
         "uri": "R61kTdcM/ffXiYuK1yWtssL7KxMtY0xWmTDVQFqi/xoNRZC7djVJLT+qfnuZhu59",
         "drm_license_url": "4R9SfW7QFctHT6yq0BdShA==",
         "User-Agent": "iI40HBe3mdcWpx9YTVml0acgLcK28wnFQMePcAsd/7yseFWqJOQ6ihssAFE9zeWSgGZQlMG0B08OxtEFQ1DK71HuUNbum3dB9LVP6OkO8+vsIllGHHmKgZVZ2MxIOhgKkivoSf49zkIc8iJOIS5Rbg=="
       },
       {
         "name": "RCNop2",
-        "ico": "https://i.postimg.cc/P5dbbJbn/RCN-Mas-c.png",
+        "ico": "http://br2.vrx-plus.es/img/RCN.DGO.png",
         "uri": "1l4DULbsBnjRSiWKK1f1pTU2JW97XO/HWcVPg4iRwv3B672GDvh/ExgYzsNHTTHb",
         "drm_license_url": "4R9SfW7QFctHT6yq0BdShA==",
         "User-Agent": "iI40HBe3mdcWpx9YTVml0acgLcK28wnFQMePcAsd/7yseFWqJOQ6ihssAFE9zeWSgGZQlMG0B08OxtEFQ1DK71HuUNbum3dB9LVP6OkO8+vsIllGHHmKgZVZ2MxIOhgKkivoSf49zkIc8iJOIS5Rbg=="
       },
       {
         "name": "RCNop3",
-        "ico": "https://i.postimg.cc/P5dbbJbn/RCN-Mas-c.png",
+        "ico": "http://br2.vrx-plus.es/img/RCN.DGO.png",
         "uri": "Xbl6CuK+PdyLxj5OR/BtI15q/h+s9GEOdqysG6M0+08jw8T3g7UKvX8XmblJV6C+",
         "drm_license_url": "4R9SfW7QFctHT6yq0BdShA==",
         "User-Agent": "iI40HBe3mdcWpx9YTVml0acgLcK28wnFQMePcAsd/7yseFWqJOQ6ihssAFE9zeWSgGZQlMG0B08OxtEFQ1DK71HuUNbum3dB9LVP6OkO8+vsIllGHHmKgZVZ2MxIOhgKkivoSf49zkIc8iJOIS5Rbg=="
