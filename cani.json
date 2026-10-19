@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "channels": [
+    {
+      "name": "LPF 1",
+      "id": "c6s0"
+    },
+    {
+      "name": "Telefe",
+      "id": "c1s0"
+    },
+    {
+      "name": "El Trece",
+      "url": "https://edge-live04-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+      "type": "CLEARKEY",
+      "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a5645e3086fa6.61360829.png",
+      "drm_license_uri": "https://giftstorecasino.femon.net/?keyid=4aa8ec10f92b212c0cbaaa8e0591b468&key=17985aeaac30e62e6dad45f4df84cc2c",
+      "headers": {
+        "Accept": "*/*",
+        "Accept-Language": "es-419,es;q=0.9,en;q=0.8",
+        "Connection": "keep-alive",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "Sec-Fetch-Dest": "empty",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Site": "cross-site",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+        "sec-ch-ua": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\""
+      },
+      "id": "c1s2",
+      "serverSigned": false,
+      "serverSignFallback": "client_probe"
+    }
+  ]
+}
