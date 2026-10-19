@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "features": {
+    "flow": true,
+    "tigo": false,
+    "tigo_live": false,
+    "tigo_next": false,
+    "tigo_other": false,
+    "tigo_live_logo": "",
+    "tigo_live_name": "",
+    "tigo_next_logo": "",
+    "tigo_next_name": "",
+    "tigo_other_logo": "",
+    "tigo_other_name": "",
+    "banner": true,
+    "url_flow": "https://raw.githubusercontent.com/peraltatv/tv/refs/heads/main/flow.json",
+    "url_tigo": "https://app.femon.net/streamvault/api/tigo-auth.php",
+    "url_peliseries": "",
+    "url_adultos": "https://app.femon.net/streamvault/api/adultos.php"
+  },
+  "expiresIn": 60
+}
