@@ -5,24 +5,6 @@
       "name": "📺 EVENTOS FUTBOL",
       "samples": [
         {
-          "id": "c0s0",
-          "name": "Racing Club vs Independiente",
-          "type": "CLEARKEY",
-          "icono": "https://app.femon.net/streamvault/panel-banners/img/6ad50cbce06341.11028234.png"
-        },
-        {
-          "id": "c0s1",
-          "name": "Estudiantes vs San Lorenzo",
-          "type": "CLEARKEY",
-          "icono": "https://app.femon.net/streamvault/panel-banners/img/6ad50e4130df19.61431294.png"
-        },
-        {
-          "id": "c0s2",
-          "name": "Estudiantes Río Cuarto vs Aldosivi",
-          "type": "CLEARKEY",
-          "icono": "https://app.femon.net/streamvault/panel-banners/img/6ad50e959691f2.52405477.png"
-        },
-        {
           "id": "c0s3",
           "name": "Evento 1",
           "type": "HLS",
